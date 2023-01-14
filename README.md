@@ -1,6 +1,9 @@
 # Caro bot
 From https://github.com/Cledersonbc/tic-tac-toe-minimax
 
+## Play game
+LINK: https://nxhawk.github.io/caro-bot/
+
 ## Game Tree
 Below, the best move is on the middle because the max value is on 2nd node on left.
 
