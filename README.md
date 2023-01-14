@@ -11,7 +11,7 @@ Below, the best move is on the middle because the max value is on 2nd node on le
 	<img src="https://github.com/Cledersonbc/tic-tac-toe-minimax/blob/master/preview/simplified-g-tree.png?raw=true"></img>
 </p>
 
-Take a look that the depth is equal the valid moves on the board. The complete code is available in **py_version/**.
+Take a look that the depth is equal the valid moves on the board.
 
 Simplified game tree:
 
